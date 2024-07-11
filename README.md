@@ -1,5 +1,3 @@
-### Introducción
-
 El desarrollo de técnicas avanzadas de machine learning ha revolucionado diversas áreas del conocimiento, incluyendo la física experimental. Este software ha sido diseñado para experimentar con una amplia gama de técnicas de machine learning con el objetivo de descubrir y formular leyes físicas a partir de datos experimentales. Al aprovechar la capacidad de procesamiento y análisis de estas técnicas, es posible identificar patrones complejos y relaciones subyacentes en los datos que de otro modo podrían pasar desapercibidos.
 
 El software implementa una variedad de algoritmos de machine learning, desde métodos tradicionales como regresión lineal y árboles de decisión, hasta enfoques más sofisticados como redes neuronales profundas y técnicas de aprendizaje no supervisado. La flexibilidad y el poder de estas herramientas permiten abordar problemas de diferentes naturalezas y escalas, ofreciendo una visión integral del proceso experimental.
