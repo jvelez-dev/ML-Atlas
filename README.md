@@ -5,3 +5,6 @@ El software implementa una variedad de algoritmos de machine learning, desde mé
 A través de este software, los usuarios pueden cargar sus conjuntos de datos experimentales, seleccionar y aplicar distintas técnicas de machine learning, y evaluar los resultados obtenidos. Esta capacidad de experimentación sistemática no solo facilita la validación de hipótesis existentes, sino que también abre la puerta a descubrimientos innovadores y a la formulación de nuevas teorías físicas.
 
 La aplicación de machine learning en la física experimental promete una nueva era de descubrimientos científicos, donde las leyes que gobiernan los fenómenos naturales pueden ser desentrañadas con mayor precisión y rapidez. Este software representa un paso significativo hacia esa dirección, proporcionando a los investigadores una poderosa herramienta para explorar, analizar y entender los complejos mecanismos que rigen nuestro universo.
+
+# DOI
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12729378.svg)](https://doi.org/10.5281/zenodo.12729378)
